@@ -5,7 +5,7 @@ import arcpy
 
 # Local variables:
 Default_gdb__3_ = "C:\\Users\\jande\\Desktop\\ArcGIS\\Default.gdb"
-elevation = "C:\\Users\\jande\\Desktop\\ArcGIS\\Default.gdb\\elevation"
+elevation = "C:\\Users\\jande\\Desktop\\ArcGIS\\Default.gdb\\elevation2"
 elevation__2_ = elevation
 elevation__3_ = elevation
 elevation__4_ = elevation
